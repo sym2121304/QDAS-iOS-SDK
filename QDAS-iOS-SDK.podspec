@@ -52,7 +52,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "sunyimin"}
+  s.author             = { "sunyimin" => "sym2121304@126.com"}
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
