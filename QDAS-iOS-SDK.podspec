@@ -115,7 +115,7 @@ Pod::Spec.new do |s|
     s.frameworks = "SystemConfiguration", "CoreTelephony", "MobileCoreServices","libz", "libc++"
 
   # s.library   = "iconv"
-#s.libraries  =
+  #s.libraries  =
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
